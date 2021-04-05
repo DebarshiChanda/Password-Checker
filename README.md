@@ -1,4 +1,4 @@
-# password-checker
+# Password Checker
 
 This project aims to check whether a particular password was hacked before using the haveibeenpwned API.
 
